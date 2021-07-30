@@ -1,0 +1,19 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F2550 -RA -GC -DL -O11111114 -fo4 -N"C:\Users\Alcides Ramos\Desktop\SSD1306\proyecto\OLED.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Alcides Ramos\Desktop\SSD1306\proyecto\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\Alcides Ramos\Desktop\SSD1306\proyecto\" "OLED.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_SoftI2C.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	P18F2550.c
+diagnostics: 1407	123	Compiled Successfully	P18F2550.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 172	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	OLED.c
+diagnostics: 61	123	Compiled Successfully	OLED.c
+hint: 248	1164	Variable 'ch' has been eliminated by optimizer	OLED.c
+hint: 289	1164	Variable 'ch' has been eliminated by optimizer	OLED.c
+hint: 373	1164	Variable 'ch' has been eliminated by optimizer	OLED.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RAM (bytes): 1061 (52%)  Free RAM (bytes): 966 (48%)	Used RAM (bytes): 1061 (52%)  Free RAM (bytes): 966 (48%)
+hint: 0	1144	Used ROM (bytes): 4052 (12%)  Free ROM (bytes): 28716 (88%)	Used ROM (bytes): 4052 (12%)  Free ROM (bytes): 28716 (88%)
+diagnostics: 0	125	Project Linked Successfully	OLED.mcppi
+hint: 0	1004	COFF file successfully generated	COFF file successfully generated
+diagnostics: 0	128	Linked in 328 ms	 
+diagnostics: 0	129	Project 'OLED.mcppi' completed: 562 ms	 
+diagnostics: 0	103	Finished successfully: 14 feb. 2019, 23:05:20	OLED.mcppi

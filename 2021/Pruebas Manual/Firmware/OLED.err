@@ -1,0 +1,9 @@
+>>> Warning 225 "D:\Laboratorio\Lampara UV Portatil\2021\Pruebas Manual\Firmware\SSD1306OLED.c" Line 35(0,1): Duplicate #define
+>>> Warning 205 "D:\Laboratorio\Lampara UV Portatil\2021\Pruebas Manual\Firmware\SSD1306OLED.c" Line 393(1,1): Unsigned variable is never less than zero
+>>> Warning 205 "D:\Laboratorio\Lampara UV Portatil\2021\Pruebas Manual\Firmware\SSD1306OLED.c" Line 393(1,1): Unsigned variable is never less than zero
+>>> Warning 203 "OLED.c" Line 173(1,1): Condition always TRUE
+>>> Warning 202 "D:\Laboratorio\Lampara UV Portatil\2021\Pruebas Manual\Firmware\imagenes.h" Line 1(11,15): Variable never used:   logo
+>>> Warning 202 "OLED.c" Line 43(28,34): Variable never used:   opcion
+>>> Warning 202 "OLED.c" Line 45(7,8): Variable never used:   p
+      Memory usage:   ROM=31%      RAM=54% - 57%
+      0 Errors,  7 Warnings.

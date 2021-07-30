@@ -1,0 +1,246 @@
+000     @SCRATCH
+001     @SCRATCH
+001     _RETURN_
+002     @SCRATCH
+003     @SCRATCH
+004     @INTERRUPT_AREA
+005     @INTERRUPT_AREA
+006     @INTERRUPT_AREA
+007     @INTERRUPT_AREA
+008     @INTERRUPT_AREA
+009     @INTERRUPT_AREA
+00A     @INTERRUPT_AREA
+00B     @INTERRUPT_AREA
+00C     @INTERRUPT_AREA
+00D     @INTERRUPT_AREA
+00E     @INTERRUPT_AREA
+00F     @INTERRUPT_AREA
+010     @INTERRUPT_AREA
+011     @INTERRUPT_AREA
+012     @INTERRUPT_AREA
+013     @INTERRUPT_AREA
+014     @INTERRUPT_AREA
+015     @INTERRUPT_AREA
+016     _i2caddr
+017     _vccstate
+018     x_pos
+019     y_pos
+01A     text_size
+01B.0   wrap
+01B.1   estado
+01B.2   flagModo
+01B.3   tiempoCumplido
+01B.4   seleccion
+01B.5   flaguv
+01C-41B ssd1306_buffer
+41C-42F Menus
+430     i
+431     j
+432     menu
+433     modo
+434     opcion
+435     minutos
+436     segundos
+437     minutosp
+438     segundosp
+439     k
+43A-43B p
+43C-43D tiempos
+43E-43F tup
+440-441 tdown
+442-443 tright
+444-445 tleft
+446-44E voltage
+44F-450 @sprintf_string
+451     SSD1306_InvertDisplay.i
+451     dibujaImagen.imagen
+451-452 SSD1306_ClearDisplay.i
+451     @PRINTF_D_384.P1
+451     SSD1306_Begin.vccstate
+451     SSD1306_DrawText.x
+451     SSD1306_DrawRect.x
+451     MAIN.@SCRATCH1
+452-453 @MUL1616.P1
+452     SSD1306_Display.height
+452     @delay_ms1.P1
+452     SSD1306_DrawText.y
+452     SSD1306_DrawRect.y
+452     @PRINTF_D_384.P1
+452     SSD1306_Begin.i2caddr
+452     dibujaImagen.@SCRATCH1
+452     MAIN.@SCRATCH2
+453     SSD1306_DrawRect.w
+453-454 SSD1306_DrawText._text
+453     SSD1306_Display.width
+453     SSD1306_ClearDisplay.@SCRATCH1
+453     dibujaImagen.@SCRATCH2
+453     @PRINTF_D_384.@SCRATCH1
+454     SSD1306_Display.m_row
+454-455 @MUL1616.P1
+454     SSD1306_DrawRect.h
+454     SSD1306_ClearDisplay.@SCRATCH2
+454     @PRINTF_D_384.@SCRATCH2
+455     SSD1306_DrawText.size
+455     SSD1306_Display.m_col
+455     SSD1306_DrawRect.@SCRATCH1
+455     @PRINTF_D_384.@SCRATCH3
+456     SSD1306_TextSize.t_size
+456     SSD1306_DrawFastHLine.x
+456     SSD1306_GotoXY.x
+456-457 SSD1306_Display.p
+456     SSD1306_DrawText.@SCRATCH1
+456     @MUL1616.@SCRATCH1
+456     @PRINTF_D_384.@SCRATCH4
+457     SSD1306_Print.c
+457     SSD1306_GotoXY.y
+457     @DIV88.P1
+457     @SPRINTF.P2
+457     SSD1306_DrawFastHLine.y
+458     @DIV88.P1
+458     SSD1306_Display.i
+458.0   SSD1306_Print._color
+458     SSD1306_DrawFastHLine.w
+459     SSD1306_Display.j
+459     SSD1306_Print.i
+459     SSD1306_DrawFastHLine.color
+459     @DIV88.@SCRATCH1
+45A     SSD1306_Display.k
+45A     SSD1306_Print.j
+45A     SSD1306_DrawFastHLine.@SCRATCH1
+45B     SSD1306_Print.line
+45B     SSD1306_Display.@SCRATCH1
+45C     ssd1306_command.c
+45C     SSD1306_Print.@SCRATCH1
+45D     ssd1306_command.control
+45D     SSD1306_Print.@SCRATCH2
+45E     @I2C_WRITE_1.P1
+45E     SSD1306_Print.@SCRATCH3
+45F     SSD1306_FillRect.x
+460     SSD1306_FillRect.y
+461     SSD1306_FillRect.w
+462     SSD1306_FillRect.h
+463     SSD1306_FillRect.color
+464-465 SSD1306_FillRect.i
+466     SSD1306_DrawFastVLine.x
+467     SSD1306_DrawFastVLine.y
+468     SSD1306_DrawFastVLine.h
+469     SSD1306_DrawFastVLine.color
+46A     SSD1306_DrawFastVLine.@SCRATCH1
+46B-46C SSD1306_DrawLine.x0
+46D-46E SSD1306_DrawLine.y0
+46F-470 SSD1306_DrawLine.x1
+471-472 SSD1306_DrawLine.y1
+473     SSD1306_DrawLine.color
+474.0   SSD1306_DrawLine.steep
+475     SSD1306_DrawLine.ystep
+476     SSD1306_DrawLine.dx
+477     SSD1306_DrawLine.dy
+478-479 SSD1306_DrawLine.err
+47A-47B t
+47C-47D t
+47E-47F t
+480-481 t
+482-483 SSD1306_DrawPixel.x
+482     SSD1306_DrawLine.@SCRATCH1
+483     SSD1306_DrawLine.@SCRATCH2
+484-485 SSD1306_DrawPixel.y
+484     SSD1306_DrawLine.@SCRATCH3
+485     SSD1306_DrawLine.@SCRATCH4
+486     SSD1306_DrawPixel.color
+487     SSD1306_DrawPixel.@SCRATCH1
+488     SSD1306_DrawPixel.@SCRATCH2
+489     SSD1306_DrawPixel.@SCRATCH3
+FB4.6   C1OUT
+FB4.7   C2OUT
+FBB     CCP_2
+FBB     CCP_2_LOW
+FBC     CCP_2_HIGH
+FBE     CCP_1_LOW
+FBE     CCP_1
+FBF     CCP_1_HIGH
+FE1-FE2 @WRITE_PACKED_MEMORY.P1
+FE1-FE2 @READ_PACKED_MEMORY.P2
+FE9-FEA @WRITE_PACKED_MEMORY.P1
+FE9-FEA @WRITE_PROGRAM_MEMORY.P2
+FE9-FEA @READ_PACKED_MEMORY.P3
+FE9-FEA @READ_PROGRAM_MEMORY.P4
+FF6-FF8 @READ_PROGRAM_MEMORY.P1
+FF6-FF8 @WRITE_PROGRAM_MEMORY.P2
+
+ROM Allocation:
+08F0  @delay_ms1
+0918  @I2C_WRITE_1
+0096  bombillo
+04AE  Font
+05C8  Font2
+096A  ssd1306_command
+09AA  SSD1306_Begin
+0B0C  SSD1306_DrawPixel
+109E  SSD1306_Display
+119E  SSD1306_ClearDisplay
+0C28  SSD1306_DrawLine
+13E4  SSD1306_DrawFastHLine
+0E42  SSD1306_DrawFastVLine
+0E6C  SSD1306_FillRect
+140E  SSD1306_DrawRect
+11C4  SSD1306_InvertDisplay
+1054  SSD1306_DrawText
+0ADA  SSD1306_GotoXY
+0AF8  SSD1306_TextSize
+0EA2  SSD1306_Print
+11E4  @MUL1616
+1208  dibujaImagen
+082E  temp1s
+1474  MAIN
+06BE  @const370
+06E4  @const371
+0708  @const372
+0728  @const373
+0748  @const374
+0766  @const375
+0784  @const377
+07A4  @const379
+12E6  @SPRINTF
+12BA  @DIV88
+1306  @PRINTF_D_384
+07C4  @const393
+07E4  @const394
+080A  @const395
+1474  @cinit
+
+
+User Memory space: 
+
+User Memory space: 
+
+Project Directory:
+    D:\Laboratorio\Lampara UV Portatil\2021\Pruebas Manual\Firmware\
+
+Project Files:
+    OLED.c
+    C:\Program Files (x86)\PICC\Devices\18F2550.h
+    imagenes.h
+    SSD1306OLED.c
+    stdint.h
+
+Units:
+    D:\Laboratorio\Lampara UV Portatil\2021\Pruebas Manual\Firmware\OLED (main)
+
+Compiler Settings:
+    Processor:      PIC18F2550
+    Pointer Size:   16
+    ADC Range:      0-255
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+
+Output Files:
+    Errors:      OLED.err
+    Ext Symbols: OLED.esym
+    INHX32:      OLED.hex
+    Symbols:     OLED.sym
+    List:        OLED.lst
+    Debug/COFF:  OLED.cof
+    Project:     OLED.PJT
+    Call Tree:   OLED.tre
+    Statistics:  OLED.sta

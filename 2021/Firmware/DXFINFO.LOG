@@ -1,0 +1,2546 @@
+WARNING (------): DXF version not recognised or not release 12-15.
+ASCII DXF release 15 is recommended
+XRECORD: name="ACDB_RECOMPOSE_DATA", handle="4C1", group="280", value="     1"
+WARNING (031990): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (032164): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (032236): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (032308): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (032380): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (032452): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (032524): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (032596): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (032668): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (032740): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (032812): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (032884): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (032956): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (033028): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (033100): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (033172): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (033244): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (033316): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (033388): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (033460): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (033532): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (033604): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (033676): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (033748): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (033820): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (033892): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (033964): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (034036): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (034108): XRECORD object group 140 unknown/not supported - ignored.
+WARNING (042926): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (042930): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (042972): XRECORD object group 270 unknown/not supported - ignored.
+WARNING (042974): XRECORD object group 271 unknown/not supported - ignored.
+WARNING (043012): XRECORD object group 270 unknown/not supported - ignored.
+WARNING (043014): XRECORD object group 271 unknown/not supported - ignored.
+WARNING (043052): XRECORD object group 270 unknown/not supported - ignored.
+WARNING (043054): XRECORD object group 271 unknown/not supported - ignored.
+WARNING (043092): XRECORD object group 270 unknown/not supported - ignored.
+WARNING (043094): XRECORD object group 271 unknown/not supported - ignored.
+WARNING (043134): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (043136): XRECORD object group 71 unknown/not supported - ignored.
+WARNING (043138): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (043140): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043142): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043144): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043146): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043148): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043150): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043152): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043154): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043156): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043158): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043160): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043162): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043164): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043166): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043168): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043170): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043172): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043174): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043176): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043178): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043180): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043182): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043184): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043186): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043188): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043190): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043192): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043194): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043196): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043198): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043200): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043202): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043204): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043206): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043208): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043210): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043212): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043214): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043216): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043218): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043220): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043222): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043224): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043226): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043228): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043230): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043232): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043234): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043236): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043238): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043240): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043242): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043244): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043246): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043248): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043250): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043252): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043254): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043256): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043258): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043260): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043262): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043264): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043266): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043268): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043270): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043272): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043274): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043276): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043278): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043280): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043282): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043284): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043286): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043288): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043290): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043292): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043294): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043296): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043298): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043300): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043302): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043304): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043306): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043308): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043310): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043312): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043314): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043316): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043318): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043320): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043322): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043324): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043326): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043328): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043330): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043332): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043334): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043336): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043338): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043340): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043342): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043344): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043346): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043348): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043350): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043352): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043354): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043356): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043358): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043360): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043362): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043364): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043366): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043368): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043370): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043372): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043374): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043376): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043378): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043380): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043382): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043384): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043386): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043388): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043390): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043392): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043394): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043396): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043398): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043400): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043402): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043404): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043406): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043408): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043410): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043412): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043414): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043416): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043418): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043420): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043422): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043424): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043426): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043428): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043430): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043432): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043434): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043436): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043438): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043440): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043442): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043444): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043446): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043448): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043450): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043452): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043454): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043456): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043458): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043460): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043462): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043464): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043466): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043468): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043470): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043472): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043474): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043476): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043478): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043480): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043482): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043484): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043486): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043488): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043490): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043492): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043494): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043496): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043498): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043500): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043502): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043504): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043506): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043508): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043510): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043512): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043514): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043516): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043518): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043520): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043522): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043524): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043526): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043528): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043530): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043532): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043534): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043536): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043538): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043540): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043542): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043544): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043546): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043548): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043550): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043552): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043554): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043556): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043558): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043560): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043562): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043564): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043566): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043568): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043570): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043572): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043574): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043576): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043578): XRECORD object group 311 unknown/not supported - ignored.
+WARNING (043580): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043582): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043584): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043586): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043588): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043590): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043592): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043594): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043596): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043598): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043600): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043602): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043604): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043606): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043608): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043610): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043612): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043614): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043616): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043618): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043620): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043622): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043624): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043626): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043628): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043630): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043632): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043634): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043636): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043638): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043640): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043642): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043644): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043646): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043648): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043650): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043652): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043654): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043656): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043658): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043660): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043662): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043664): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043666): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043668): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043670): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043672): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043674): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043676): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043678): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043680): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043682): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043684): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043686): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043688): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043690): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043692): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043694): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043696): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043698): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043700): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043702): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043704): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043706): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043708): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043710): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043712): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043714): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043716): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043718): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043720): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043722): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043724): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043726): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043728): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043730): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043732): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043734): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043736): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043738): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043740): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043742): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043744): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043746): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043748): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043750): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043752): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043754): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043756): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043758): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043760): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043762): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043764): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043766): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043768): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043770): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043772): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043774): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043776): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043778): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043780): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043782): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043784): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043786): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043788): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043790): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043792): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043794): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043796): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043798): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043800): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043802): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043804): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043806): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043808): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043810): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043812): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043814): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043816): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043818): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043820): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043822): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043824): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043826): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043828): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043830): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043832): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043834): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043836): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043838): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043840): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043842): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043844): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043846): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043848): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043850): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043852): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043854): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043856): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043858): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043860): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043862): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043864): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043866): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043868): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043870): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043872): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043874): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043876): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043878): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043880): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043882): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043884): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043886): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043888): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043890): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043892): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043894): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043896): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043898): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043900): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043902): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043904): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043906): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043908): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043910): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043912): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043914): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043916): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043918): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043920): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043922): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043924): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043926): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043928): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043930): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043932): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043934): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043936): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043938): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043940): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043942): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043944): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043946): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043948): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043950): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043952): XRECORD object group 310 unknown/not supported - ignored.
+WARNING (043990): XRECORD object group 270 unknown/not supported - ignored.
+WARNING (043992): XRECORD object group 271 unknown/not supported - ignored.
+WARNING (044030): XRECORD object group 270 unknown/not supported - ignored.
+WARNING (044032): XRECORD object group 271 unknown/not supported - ignored.
+WARNING (044070): XRECORD object group 270 unknown/not supported - ignored.
+WARNING (044072): XRECORD object group 271 unknown/not supported - ignored.
+WARNING (044928): XRECORD object group 270 unknown/not supported - ignored.
+WARNING (044930): XRECORD object group 271 unknown/not supported - ignored.
+WARNING (044968): XRECORD object group 270 unknown/not supported - ignored.
+WARNING (044970): XRECORD object group 271 unknown/not supported - ignored.
+WARNING (045010): XRECORD object group 1 unknown/not supported - ignored.
+WARNING (045014): XRECORD object group 90 unknown/not supported - ignored.
+WARNING (005500): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (005502): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Model_Space", org=(0,0), 0 entities.
+WARNING (005524): BLOCK object group 67 unknown/not supported - ignored.
+WARNING (005540): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (005542): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Paper_Space", org=(0,0), 0 entities.
+WARNING (005552): BLOCKS section group 67 unknown/not supported - ignored.
+WARNING (005566): BLOCK object group 67 unknown/not supported - ignored.
+WARNING (005582): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (005584): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Paper_Space0", org=(0,0), 0 entities.
+WARNING (005594): BLOCKS section group 67 unknown/not supported - ignored.
+WARNING (005622): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (005624): BLOCK object group 1 unknown/not supported - ignored.
+LINE entity, line 5626
+WARNING (005636): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (005640): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(-2540,423), p2=(0,0)
+LINE entity, line 5656
+WARNING (005666): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (005670): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(0,0), p2=(-2540,-423)
+LINE entity, line 5686
+WARNING (005696): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (005700): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(-2540,423), p2=(-2540,-423)
+LINE entity, line 5716
+WARNING (005726): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (005730): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(0,0), p2=(-2540,0)
+SYMBOL: layer="0", name="_Closed", org=(0,0), 4 entities.
+WARNING (005780): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (005782): BLOCK object group 1 unknown/not supported - ignored.
+POLYLINE entity, line 5784
+WARNING (005816): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (005838): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (005860): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (005882): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="0", flags=0x80, #pts=4, 0=(0,2540), 1=(0,-2540), 2=(-2540,0), 3=(0,2540)
+SOLID entity, line 5908
+R.SOLID: TESTING l1=(0,2540)(0,2540) and l2=(0,-2540)(-2540,0) - No twist in boundary.
+R.SOLID: layer="0", p1=(0,2540), p2=(0,-2540), p3=(-2540,0) p4=(0,2540)
+SYMBOL: layer="0", name="DatumFilled45", org=(0,0), 2 entities.
+WARNING (005980): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (005982): BLOCK object group 1 unknown/not supported - ignored.
+LINE entity, line 5984
+LINE: layer="0", p1=(-2540,0), p2=(0,0)
+POLYLINE entity, line 6010
+WARNING (006042): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006064): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006086): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006108): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="0", flags=0x80, #pts=4, 0=(-2540,-253), 1=(0,0), 2=(-2540,253), 3=(-2540,-253)
+SOLID entity, line 6134
+R.SOLID: TESTING l1=(-2540,-253)(-2540,-253) and l2=(0,0)(-2540,253) - No twist in boundary.
+R.SOLID: layer="0", p1=(-2540,-253), p2=(0,0), p3=(-2540,253) p4=(-2540,-253)
+LINE entity, line 6172
+LINE: layer="0", p1=(-2540,-253), p2=(0,0)
+LINE entity, line 6198
+LINE: layer="0", p1=(0,0), p2=(-2540,253)
+LINE entity, line 6224
+LINE: layer="0", p1=(-2540,253), p2=(-2540,-253)
+SYMBOL: layer="0", name="Filled-1", org=(0,0), 6 entities.
+WARNING (006284): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (006286): BLOCK object group 1 unknown/not supported - ignored.
+POLYLINE entity, line 6288
+WARNING (006318): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006338): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006358): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006378): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006398): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="Border (ANSI)", flags=0x80, #pts=5, 0=(32258,64516), 1=(32258,1354836), 2=(2161286,1354836), 3=(2161286,64516), 4=(32258,64516)
+POLYLINE entity, line 6420
+WARNING (006450): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006470): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006490): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006510): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006530): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="Border (ANSI)", flags=0x80, #pts=5, 0=(1096772,38710), 1=(1096772,64516), 2=(1089322,51613), 3=(1104222,51613), 4=(1096772,64516)
+POLYLINE entity, line 6552
+WARNING (006582): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006602): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006622): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006642): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006662): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="Border (ANSI)", flags=0x80, #pts=5, 0=(1096772,1380642), 1=(1096772,1354836), 2=(1089322,1367739), 3=(1104222,1367739), 4=(1096772,1354836)
+POLYLINE entity, line 6684
+WARNING (006714): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006734): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006754): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006774): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006794): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="Border (ANSI)", flags=0x80, #pts=5, 0=(6452,709676), 1=(32258,709676), 2=(19355,717126), 3=(19355,702226), 4=(32258,709676)
+POLYLINE entity, line 6816
+WARNING (006846): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006866): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006886): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006906): VERTEX entity group 8 unknown/not supported - ignored.
+WARNING (006926): VERTEX entity group 8 unknown/not supported - ignored.
+POLYLINE: layer="Border (ANSI)", flags=0x80, #pts=5, 0=(2187092,709676), 1=(2161286,709676), 2=(2174189,717126), 3=(2174189,702226), 4=(2161286,709676)
+LINE entity, line 6948
+LINE: layer="Border (ANSI)", p1=(274193,64516), p2=(274193,54193)
+LINE entity, line 6972
+LINE: layer="Border (ANSI)", p1=(274193,1354836), p2=(274193,1365159)
+LINE entity, line 6996
+LINE: layer="Border (ANSI)", p1=(548386,64516), p2=(548386,54193)
+LINE entity, line 7020
+LINE: layer="Border (ANSI)", p1=(548386,1354836), p2=(548386,1365159)
+LINE entity, line 7044
+LINE: layer="Border (ANSI)", p1=(822579,64516), p2=(822579,54193)
+LINE entity, line 7068
+LINE: layer="Border (ANSI)", p1=(822579,1354836), p2=(822579,1365159)
+LINE entity, line 7092
+LINE: layer="Border (ANSI)", p1=(1370965,64516), p2=(1370965,54193)
+LINE entity, line 7116
+LINE: layer="Border (ANSI)", p1=(1370965,1354836), p2=(1370965,1365159)
+LINE entity, line 7140
+LINE: layer="Border (ANSI)", p1=(1645158,64516), p2=(1645158,54193)
+LINE entity, line 7164
+LINE: layer="Border (ANSI)", p1=(1645158,1354836), p2=(1645158,1365159)
+LINE entity, line 7188
+LINE: layer="Border (ANSI)", p1=(1919351,64516), p2=(1919351,54193)
+LINE entity, line 7212
+LINE: layer="Border (ANSI)", p1=(1919351,1354836), p2=(1919351,1365159)
+MTEXT entity, line 7236
+WARNING (007236): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7272
+WARNING (007272): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7308
+WARNING (007308): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7344
+WARNING (007344): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7380
+WARNING (007380): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7416
+WARNING (007416): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7452
+WARNING (007452): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7488
+WARNING (007488): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7524
+WARNING (007524): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7560
+WARNING (007560): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7596
+WARNING (007596): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7632
+WARNING (007632): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7668
+WARNING (007668): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7704
+WARNING (007704): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7740
+WARNING (007740): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7776
+WARNING (007776): Entity expected, found 'MTEXT' - ignored.
+LINE entity, line 7812
+LINE: layer="Border (ANSI)", p1=(32258,354838), p2=(21935,354838)
+LINE entity, line 7836
+LINE: layer="Border (ANSI)", p1=(2161286,354838), p2=(2171609,354838)
+LINE entity, line 7860
+LINE: layer="Border (ANSI)", p1=(32258,1064514), p2=(21935,1064514)
+LINE entity, line 7884
+LINE: layer="Border (ANSI)", p1=(2161286,1064514), p2=(2171609,1064514)
+MTEXT entity, line 7908
+WARNING (007908): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7944
+WARNING (007944): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 7980
+WARNING (007980): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 8016
+WARNING (008016): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 8052
+WARNING (008052): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 8088
+WARNING (008088): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 8124
+WARNING (008124): Entity expected, found 'MTEXT' - ignored.
+MTEXT entity, line 8160
+WARNING (008160): Entity expected, found 'MTEXT' - ignored.
+SYMBOL: layer="Border (ANSI)", name="Borders Default Border", org=(0,0), 21 entities.
+WARNING (008230): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (008232): BLOCK object group 1 unknown/not supported - ignored.
+LINE entity, line 8234
+LINE: layer="Title (ANSI)", p1=(322581,480643), p2=(322581,319353)
+LINE entity, line 8258
+LINE: layer="Title (ANSI)", p1=(322581,319353), p2=(822580,319353)
+LINE entity, line 8282
+LINE: layer="Title (ANSI)", p1=(822580,319353), p2=(822580,480643)
+LINE entity, line 8306
+LINE: layer="Title (ANSI)", p1=(822580,480643), p2=(322581,480643)
+LINE entity, line 8330
+WARNING (008340): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="Title (ANSI)", p1=(500000,319353), p2=(500000,480643)
+LINE entity, line 8356
+WARNING (008366): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="Title (ANSI)", p1=(500000,440643), p2=(822580,440643)
+LINE entity, line 8382
+WARNING (008392): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="Title (ANSI)", p1=(822580,367740), p2=(500000,367740)
+LINE entity, line 8408
+WARNING (008418): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="Title (ANSI)", p1=(822580,335482), p2=(500000,335482)
+LINE entity, line 8434
+WARNING (008444): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="Title (ANSI)", p1=(500000,335482), p2=(322581,335482)
+LINE entity, line 8460
+WARNING (008470): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="Title (ANSI)", p1=(532258,335482), p2=(532258,367740)
+LINE entity, line 8486
+WARNING (008496): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="Title (ANSI)", p1=(572258,335482), p2=(572258,319353)
+LINE entity, line 8512
+WARNING (008522): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="Title (ANSI)", p1=(596774,335482), p2=(596774,367740)
+LINE entity, line 8538
+WARNING (008548): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="Title (ANSI)", p1=(693548,335482), p2=(693548,319353)
+LINE entity, line 8564
+WARNING (008574): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="Title (ANSI)", p1=(790322,335482), p2=(790322,367740)
+LINE entity, line 8590
+WARNING (008600): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="Title (ANSI)", p1=(435484,319353), p2=(435484,480643)
+LINE entity, line 8616
+WARNING (008626): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="Title (ANSI)", p1=(322581,359676), p2=(500000,359676)
+LINE entity, line 8642
+WARNING (008652): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="Title (ANSI)", p1=(322581,383869), p2=(500000,383869)
+LINE entity, line 8668
+WARNING (008678): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="Title (ANSI)", p1=(322581,408063), p2=(500000,408063)
+LINE entity, line 8694
+WARNING (008704): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="Title (ANSI)", p1=(322581,432256), p2=(500000,432256)
+LINE entity, line 8720
+WARNING (008730): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="Title (ANSI)", p1=(322581,456450), p2=(500000,456450)
+MTEXT entity, line 8746
+WARNING (008746): Entity expected, found 'MTEXT' - ignored.
+TEXT entity, line 8782
+WARNING (008804): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (008814): TEXT entity group 73 unknown/not supported - ignored.
+TEXT [DRAWN], ip=(324516,472256), rp=(324516,478708), rot=0.0ø, mir=0, jf=0, ch=6452, xsf=1.000000
+TEXT: layer="Title (ANSI)", text="DRAWN", o=(324516,472256), r=0.0ø, mf=0000, ch=6452, cw=6452, jf=0000
+TEXT entity, line 8816
+WARNING (008838): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (008848): TEXT entity group 73 unknown/not supported - ignored.
+TEXT [CHECKED], ip=(324516,448063), rp=(324516,454514), rot=0.0ø, mir=0, jf=0, ch=6452, xsf=1.000000
+TEXT: layer="Title (ANSI)", text="CHECKED", o=(324516,448063), r=0.0ø, mf=0000, ch=6452, cw=6452, jf=0000
+TEXT entity, line 8850
+WARNING (008872): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (008882): TEXT entity group 73 unknown/not supported - ignored.
+TEXT [QA], ip=(324516,423869), rp=(324516,430321), rot=0.0ø, mir=0, jf=0, ch=6452, xsf=1.000000
+TEXT: layer="Title (ANSI)", text="QA", o=(324516,423869), r=0.0ø, mf=0000, ch=6452, cw=6452, jf=0000
+TEXT entity, line 8884
+WARNING (008906): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (008916): TEXT entity group 73 unknown/not supported - ignored.
+TEXT [MFG], ip=(324516,399676), rp=(324516,406127), rot=0.0ø, mir=0, jf=0, ch=6452, xsf=1.000000
+TEXT: layer="Title (ANSI)", text="MFG", o=(324516,399676), r=0.0ø, mf=0000, ch=6452, cw=6452, jf=0000
+TEXT entity, line 8918
+WARNING (008940): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (008950): TEXT entity group 73 unknown/not supported - ignored.
+TEXT [APPROVED], ip=(324516,375482), rp=(324516,381934), rot=0.0ø, mir=0, jf=0, ch=6452, xsf=1.000000
+TEXT: layer="Title (ANSI)", text="APPROVED", o=(324516,375482), r=0.0ø, mf=0000, ch=6452, cw=6452, jf=0000
+TEXT entity, line 8952
+WARNING (008974): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (008984): TEXT entity group 73 unknown/not supported - ignored.
+TEXT [DWG NO], ip=(598709,359353), rp=(598709,365805), rot=0.0ø, mir=0, jf=0, ch=6452, xsf=1.000000
+TEXT: layer="Title (ANSI)", text="DWG NO", o=(598709,359353), r=0.0ø, mf=0000, ch=6452, cw=6452, jf=0000
+TEXT entity, line 8986
+WARNING (009008): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (009018): TEXT entity group 73 unknown/not supported - ignored.
+TEXT [TITLE], ip=(501935,432256), rp=(501935,438708), rot=0.0ø, mir=0, jf=0, ch=6452, xsf=1.000000
+TEXT: layer="Title (ANSI)", text="TITLE", o=(501935,432256), r=0.0ø, mf=0000, ch=6452, cw=6452, jf=0000
+TEXT entity, line 9020
+WARNING (009042): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (009054): TEXT entity group 73 unknown/not supported - ignored.
+TEXT [SIZE], ip=(507032,359353), rp=(516129,365805), rot=0.0ø, mir=0, jf=1, ch=6452, xsf=1.000000
+TEXT: layer="Title (ANSI)", text="SIZE", o=(516129,365805), r=0.0ø, mf=0000, ch=6452, cw=6452, jf=0002
+TEXT entity, line 9056
+WARNING (009078): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (009088): TEXT entity group 73 unknown/not supported - ignored.
+TEXT [SCALE], ip=(501935,327095), rp=(501935,333547), rot=0.0ø, mir=0, jf=0, ch=6452, xsf=1.000000
+TEXT: layer="Title (ANSI)", text="SCALE", o=(501935,327095), r=0.0ø, mf=0000, ch=6452, cw=6452, jf=0000
+TEXT entity, line 9090
+WARNING (009112): TEXT entity group 7 unknown/not supported - ignored.
+WARNING (009124): TEXT entity group 73 unknown/not supported - ignored.
+TEXT [REV], ip=(798543,359353), rp=(806451,365805), rot=0.0ø, mir=0, jf=1, ch=6452, xsf=1.000000
+TEXT: layer="Title (ANSI)", text="REV", o=(806451,365805), r=0.0ø, mf=0000, ch=6452, cw=6452, jf=0002
+ATTDEF entity, line 9126
+WARNING (009126): Entity expected, found 'ATTDEF' - ignored.
+ATTDEF entity, line 9176
+WARNING (009176): Entity expected, found 'ATTDEF' - ignored.
+ATTDEF entity, line 9226
+WARNING (009226): Entity expected, found 'ATTDEF' - ignored.
+ATTDEF entity, line 9268
+WARNING (009268): Entity expected, found 'ATTDEF' - ignored.
+ATTDEF entity, line 9318
+WARNING (009318): Entity expected, found 'ATTDEF' - ignored.
+ATTDEF entity, line 9360
+WARNING (009360): Entity expected, found 'ATTDEF' - ignored.
+ATTDEF entity, line 9410
+WARNING (009410): Entity expected, found 'ATTDEF' - ignored.
+ATTDEF entity, line 9460
+WARNING (009460): Entity expected, found 'ATTDEF' - ignored.
+ATTDEF entity, line 9510
+WARNING (009510): Entity expected, found 'ATTDEF' - ignored.
+ATTDEF entity, line 9560
+WARNING (009560): Entity expected, found 'ATTDEF' - ignored.
+ATTDEF entity, line 9610
+WARNING (009610): Entity expected, found 'ATTDEF' - ignored.
+ATTDEF entity, line 9652
+WARNING (009652): Entity expected, found 'ATTDEF' - ignored.
+ATTDEF entity, line 9704
+WARNING (009704): Entity expected, found 'ATTDEF' - ignored.
+ATTDEF entity, line 9756
+WARNING (009756): Entity expected, found 'ATTDEF' - ignored.
+SYMBOL: layer="0", name="Title Blocks ANSI - Large", org=(0,0), 30 entities.
+INSERT entity, line 9816
+INSERT: layer="0", name="Borders Default Border", o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+INSERT entity, line 9836
+INSERT: layer="0", name="Title Blocks ANSI - Large", o=(1338706,-254837), rot=0.0ø, xscale=1.000000, yscale=1.000000
+WARNING (010502): Discarded 14 ATTRIB entities after INSERT entity.
+Skipped ATTRIBs after INSERT entity. Resuming entity-scanning after line 10502.
+WARNING (010504): ENTITIES section group 5 unknown/not supported - ignored.
+WARNING (010506): ENTITIES section group 330 unknown/not supported - ignored.
+WARNING (010508): ENTITIES section group 100 unknown/not supported - ignored.
+LINE entity, line 10512
+LINE: layer="Visible (ANSI)", p1=(512166,783159), p2=(594716,783159)
+LINE entity, line 10536
+LINE: layer="Visible (ANSI)", p1=(512166,831165), p2=(512166,783159)
+LINE entity, line 10560
+LINE: layer="Visible (ANSI)", p1=(594716,831165), p2=(512166,831165)
+LINE entity, line 10584
+LINE: layer="Visible (ANSI)", p1=(594716,783159), p2=(594716,831165)
+LINE entity, line 10608
+LINE: layer="Visible (ANSI)", p1=(595351,770840), p2=(595351,831800)
+LINE entity, line 10632
+LINE: layer="Visible (ANSI)", p1=(511531,770840), p2=(595351,770840)
+LINE entity, line 10656
+LINE: layer="Visible (ANSI)", p1=(511531,831800), p2=(511531,770840)
+LINE entity, line 10680
+LINE: layer="Visible (ANSI)", p1=(595351,831800), p2=(511531,831800)
+CIRCLE entity, line 10704
+CIRCLE: layer="Visible (ANSI)", c=(590906,763601), r=3810
+LINE entity, line 10724
+LINE: layer="Visible (ANSI)", p1=(595986,758521), p2=(595986,844119)
+LINE entity, line 10748
+LINE: layer="Visible (ANSI)", p1=(571221,758521), p2=(595986,758521)
+CIRCLE entity, line 10772
+CIRCLE: layer="Visible (ANSI)", c=(515976,763601), r=3810
+LINE entity, line 10792
+LINE: layer="Visible (ANSI)", p1=(510896,844119), p2=(510896,758521)
+LINE entity, line 10816
+LINE: layer="Visible (ANSI)", p1=(510896,758521), p2=(535661,758521)
+CIRCLE entity, line 10840
+CIRCLE: layer="Visible (ANSI)", c=(590906,836499), r=3810
+CIRCLE entity, line 10860
+CIRCLE: layer="Visible (ANSI)", c=(515976,836499), r=3810
+LINE entity, line 10880
+LINE: layer="Visible (ANSI)", p1=(535661,758521), p2=(535661,768681)
+LINE entity, line 10904
+LINE: layer="Visible (ANSI)", p1=(595986,844119), p2=(510896,844119)
+LINE entity, line 10928
+LINE: layer="Visible (ANSI)", p1=(571221,768681), p2=(571221,758521)
+LINE entity, line 10952
+LINE: layer="Visible (ANSI)", p1=(535661,768681), p2=(571221,768681)
+LINE entity, line 10976
+WARNING (010986): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(541182,844043), p2=(541182,837591)
+LINE entity, line 11002
+WARNING (011012): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(540537,843397), p2=(541182,844043)
+LINE entity, line 11028
+WARNING (011038): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(540537,838236), p2=(540537,843397)
+LINE entity, line 11054
+WARNING (011064): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(541182,837591), p2=(540537,838236)
+LINE entity, line 11080
+WARNING (011090): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(547634,844043), p2=(547634,837591)
+LINE entity, line 11106
+WARNING (011116): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(546989,843397), p2=(547634,844043)
+LINE entity, line 11132
+WARNING (011142): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(546344,844043), p2=(546989,843397)
+LINE entity, line 11158
+WARNING (011168): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(546344,844043), p2=(546344,837591)
+LINE entity, line 11184
+WARNING (011194): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(546989,838236), p2=(546344,837591)
+LINE entity, line 11210
+WARNING (011220): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(547634,837591), p2=(546989,838236)
+LINE entity, line 11236
+WARNING (011246): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(554086,844043), p2=(554086,837591)
+LINE entity, line 11262
+WARNING (011272): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(553441,843397), p2=(554086,844043)
+LINE entity, line 11288
+WARNING (011298): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(552795,844043), p2=(553441,843397)
+LINE entity, line 11314
+WARNING (011324): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(552795,844043), p2=(552795,837591)
+LINE entity, line 11340
+WARNING (011350): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(553441,838236), p2=(552795,837591)
+LINE entity, line 11366
+WARNING (011376): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(554086,837591), p2=(553441,838236)
+LINE entity, line 11392
+WARNING (011402): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(560537,844043), p2=(560537,837591)
+LINE entity, line 11418
+WARNING (011428): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(559892,843397), p2=(560537,844043)
+LINE entity, line 11444
+WARNING (011454): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(559247,844043), p2=(559892,843397)
+LINE entity, line 11470
+WARNING (011480): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(559247,844043), p2=(559247,837591)
+LINE entity, line 11496
+WARNING (011506): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(559892,838236), p2=(559247,837591)
+LINE entity, line 11522
+WARNING (011532): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(560537,837591), p2=(559892,838236)
+LINE entity, line 11548
+WARNING (011558): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(565699,844043), p2=(565699,837591)
+LINE entity, line 11574
+WARNING (011584): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(566344,838236), p2=(565699,837591)
+LINE entity, line 11600
+WARNING (011610): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(566344,843397), p2=(566344,838236)
+LINE entity, line 11626
+WARNING (011636): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(565699,844043), p2=(566344,843397)
+LINE entity, line 11652
+WARNING (011662): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(546344,837591), p2=(541182,837591)
+LINE entity, line 11678
+WARNING (011688): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(541182,844043), p2=(546344,844043)
+LINE entity, line 11704
+WARNING (011714): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(554086,844043), p2=(559247,844043)
+LINE entity, line 11730
+WARNING (011740): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(559247,837591), p2=(554086,837591)
+LINE entity, line 11756
+WARNING (011766): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(547634,844043), p2=(552795,844043)
+LINE entity, line 11782
+WARNING (011792): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(552795,837591), p2=(547634,837591)
+LINE entity, line 11808
+WARNING (011818): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(560537,844043), p2=(565699,844043)
+LINE entity, line 11834
+WARNING (011844): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(565699,837591), p2=(560537,837591)
+LINE entity, line 11860
+LINE: layer="Visible (ANSI)", p1=(549389,839991), p2=(549389,841642)
+LINE entity, line 11884
+LINE: layer="Visible (ANSI)", p1=(551040,839991), p2=(549389,839991)
+LINE entity, line 11908
+LINE: layer="Visible (ANSI)", p1=(551040,841642), p2=(551040,839991)
+LINE entity, line 11932
+LINE: layer="Visible (ANSI)", p1=(551040,841642), p2=(549389,841642)
+LINE entity, line 11956
+LINE: layer="Visible (ANSI)", p1=(549897,841134), p2=(549389,841642)
+LINE entity, line 11980
+LINE: layer="Visible (ANSI)", p1=(550532,841134), p2=(549897,841134)
+LINE entity, line 12004
+LINE: layer="Visible (ANSI)", p1=(550532,841134), p2=(551040,841642)
+LINE entity, line 12028
+LINE: layer="Visible (ANSI)", p1=(550532,841134), p2=(550532,840499)
+LINE entity, line 12052
+LINE: layer="Visible (ANSI)", p1=(551040,839991), p2=(550532,840499)
+LINE entity, line 12076
+LINE: layer="Visible (ANSI)", p1=(550532,840499), p2=(549897,840499)
+LINE entity, line 12100
+LINE: layer="Visible (ANSI)", p1=(549897,840499), p2=(549897,841134)
+LINE entity, line 12124
+LINE: layer="Visible (ANSI)", p1=(549897,840499), p2=(549389,839991)
+LINE entity, line 12148
+LINE: layer="Visible (ANSI)", p1=(562292,839991), p2=(562292,841642)
+LINE entity, line 12172
+LINE: layer="Visible (ANSI)", p1=(563943,839991), p2=(562292,839991)
+LINE entity, line 12196
+LINE: layer="Visible (ANSI)", p1=(563943,841642), p2=(563943,839991)
+LINE entity, line 12220
+LINE: layer="Visible (ANSI)", p1=(563943,841642), p2=(562292,841642)
+LINE entity, line 12244
+LINE: layer="Visible (ANSI)", p1=(562800,841134), p2=(562292,841642)
+LINE entity, line 12268
+LINE: layer="Visible (ANSI)", p1=(563435,841134), p2=(562800,841134)
+LINE entity, line 12292
+LINE: layer="Visible (ANSI)", p1=(563435,841134), p2=(563943,841642)
+LINE entity, line 12316
+LINE: layer="Visible (ANSI)", p1=(563435,841134), p2=(563435,840499)
+LINE entity, line 12340
+LINE: layer="Visible (ANSI)", p1=(563943,839991), p2=(563435,840499)
+LINE entity, line 12364
+LINE: layer="Visible (ANSI)", p1=(563435,840499), p2=(562800,840499)
+LINE entity, line 12388
+LINE: layer="Visible (ANSI)", p1=(562800,840499), p2=(562800,841134)
+LINE entity, line 12412
+LINE: layer="Visible (ANSI)", p1=(562800,840499), p2=(562292,839991)
+LINE entity, line 12436
+LINE: layer="Visible (ANSI)", p1=(555841,839991), p2=(555841,841642)
+LINE entity, line 12460
+LINE: layer="Visible (ANSI)", p1=(557492,839991), p2=(555841,839991)
+LINE entity, line 12484
+LINE: layer="Visible (ANSI)", p1=(557492,841642), p2=(557492,839991)
+LINE entity, line 12508
+LINE: layer="Visible (ANSI)", p1=(557492,841642), p2=(555841,841642)
+LINE entity, line 12532
+LINE: layer="Visible (ANSI)", p1=(556349,841134), p2=(555841,841642)
+LINE entity, line 12556
+LINE: layer="Visible (ANSI)", p1=(556984,841134), p2=(556349,841134)
+LINE entity, line 12580
+LINE: layer="Visible (ANSI)", p1=(556984,841134), p2=(557492,841642)
+LINE entity, line 12604
+LINE: layer="Visible (ANSI)", p1=(556984,841134), p2=(556984,840499)
+LINE entity, line 12628
+LINE: layer="Visible (ANSI)", p1=(557492,839991), p2=(556984,840499)
+LINE entity, line 12652
+LINE: layer="Visible (ANSI)", p1=(556984,840499), p2=(556349,840499)
+LINE entity, line 12676
+LINE: layer="Visible (ANSI)", p1=(556349,840499), p2=(556349,841134)
+LINE entity, line 12700
+LINE: layer="Visible (ANSI)", p1=(556349,840499), p2=(555841,839991)
+LINE entity, line 12724
+LINE: layer="Visible (ANSI)", p1=(542938,839991), p2=(542938,841642)
+LINE entity, line 12748
+LINE: layer="Visible (ANSI)", p1=(544589,839991), p2=(542938,839991)
+LINE entity, line 12772
+LINE: layer="Visible (ANSI)", p1=(544589,841642), p2=(544589,839991)
+LINE entity, line 12796
+LINE: layer="Visible (ANSI)", p1=(544589,841642), p2=(542938,841642)
+LINE entity, line 12820
+LINE: layer="Visible (ANSI)", p1=(543446,841134), p2=(542938,841642)
+LINE entity, line 12844
+LINE: layer="Visible (ANSI)", p1=(544081,841134), p2=(543446,841134)
+LINE entity, line 12868
+LINE: layer="Visible (ANSI)", p1=(544081,841134), p2=(544589,841642)
+LINE entity, line 12892
+LINE: layer="Visible (ANSI)", p1=(544081,841134), p2=(544081,840499)
+LINE entity, line 12916
+LINE: layer="Visible (ANSI)", p1=(544589,839991), p2=(544081,840499)
+LINE entity, line 12940
+LINE: layer="Visible (ANSI)", p1=(544081,840499), p2=(543446,840499)
+LINE entity, line 12964
+LINE: layer="Visible (ANSI)", p1=(543446,840499), p2=(543446,841134)
+LINE entity, line 12988
+LINE: layer="Visible (ANSI)", p1=(543446,840499), p2=(542938,839991)
+LINE entity, line 13012
+WARNING (013022): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(539902,844043), p2=(539902,837591)
+LINE entity, line 13038
+WARNING (013048): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(561276,838912), p2=(564959,838912)
+LINE entity, line 13064
+WARNING (013074): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(564959,838912), p2=(565023,838912)
+LINE entity, line 13090
+WARNING (013100): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(565023,838912), p2=(566979,838912)
+LINE entity, line 13116
+WARNING (013126): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(539902,838912), p2=(541858,838912)
+LINE entity, line 13142
+WARNING (013152): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(541858,838912), p2=(541922,838912)
+LINE entity, line 13168
+WARNING (013178): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(541922,838912), p2=(545605,838912)
+LINE entity, line 13194
+WARNING (013204): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(545605,838912), p2=(545668,838912)
+LINE entity, line 13220
+WARNING (013230): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(545668,838912), p2=(548310,838912)
+LINE entity, line 13246
+WARNING (013256): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(548310,838912), p2=(548373,838912)
+LINE entity, line 13272
+WARNING (013282): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(548373,838912), p2=(552056,838912)
+LINE entity, line 13298
+WARNING (013308): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(552056,838912), p2=(552120,838912)
+LINE entity, line 13324
+WARNING (013334): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(552120,838912), p2=(554761,838912)
+LINE entity, line 13350
+WARNING (013360): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(554761,838912), p2=(554825,838912)
+LINE entity, line 13376
+WARNING (013386): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(554825,838912), p2=(558508,838912)
+LINE entity, line 13402
+WARNING (013412): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(558508,838912), p2=(558571,838912)
+LINE entity, line 13428
+WARNING (013438): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(558571,838912), p2=(561213,838912)
+LINE entity, line 13454
+WARNING (013464): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(561213,838912), p2=(561276,838912)
+LINE entity, line 13480
+WARNING (013490): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(561276,842722), p2=(561276,838912)
+LINE entity, line 13506
+WARNING (013516): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(561276,842722), p2=(564959,842722)
+LINE entity, line 13532
+WARNING (013542): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(562356,840309), p2=(562356,841325)
+LINE entity, line 13558
+WARNING (013568): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(562356,840309), p2=(563880,840309)
+LINE entity, line 13584
+WARNING (013594): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(563880,840309), p2=(563880,841325)
+LINE entity, line 13610
+WARNING (013620): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(562356,841325), p2=(563880,841325)
+LINE entity, line 13636
+WARNING (013646): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(564959,842722), p2=(564959,838912)
+LINE entity, line 13662
+WARNING (013672): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(561213,842722), p2=(561213,838912)
+LINE entity, line 13688
+WARNING (013698): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(561213,842722), p2=(561276,842722)
+LINE entity, line 13714
+WARNING (013724): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(564959,842722), p2=(565023,842722)
+LINE entity, line 13740
+WARNING (013750): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(565023,842722), p2=(565023,838912)
+LINE entity, line 13766
+WARNING (013776): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(558571,842722), p2=(561213,842722)
+LINE entity, line 13792
+WARNING (013802): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(558508,842722), p2=(558571,842722)
+LINE entity, line 13818
+WARNING (013828): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(554825,842722), p2=(558508,842722)
+LINE entity, line 13844
+WARNING (013854): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(554761,842722), p2=(554825,842722)
+LINE entity, line 13870
+WARNING (013880): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(552120,842722), p2=(554761,842722)
+LINE entity, line 13896
+WARNING (013906): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(552056,842722), p2=(552120,842722)
+LINE entity, line 13922
+WARNING (013932): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(548373,842722), p2=(552056,842722)
+LINE entity, line 13948
+WARNING (013958): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(548310,842722), p2=(548373,842722)
+LINE entity, line 13974
+WARNING (013984): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(545668,842722), p2=(548310,842722)
+LINE entity, line 14000
+WARNING (014010): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(545668,842722), p2=(545605,842722)
+LINE entity, line 14026
+WARNING (014036): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(541922,842722), p2=(545605,842722)
+LINE entity, line 14052
+WARNING (014062): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(541922,842722), p2=(541858,842722)
+LINE entity, line 14078
+WARNING (014088): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(539902,842722), p2=(541858,842722)
+LINE entity, line 14104
+WARNING (014114): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(565023,842722), p2=(566979,842722)
+LINE entity, line 14130
+WARNING (014140): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(541858,838912), p2=(541858,842722)
+LINE entity, line 14156
+WARNING (014166): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(541922,842722), p2=(541922,838912)
+LINE entity, line 14182
+WARNING (014192): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(545605,842722), p2=(545605,838912)
+LINE entity, line 14208
+WARNING (014218): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(545668,838912), p2=(545668,842722)
+LINE entity, line 14234
+WARNING (014244): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(543001,840309), p2=(543001,841325)
+LINE entity, line 14260
+WARNING (014270): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(543001,840309), p2=(544525,840309)
+LINE entity, line 14286
+WARNING (014296): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(544525,840309), p2=(544525,841325)
+LINE entity, line 14312
+WARNING (014322): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(543001,841325), p2=(544525,841325)
+LINE entity, line 14338
+WARNING (014348): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(543382,841325), p2=(543382,840309)
+LINE entity, line 14364
+WARNING (014374): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(544144,840309), p2=(544144,841325)
+LINE entity, line 14390
+WARNING (014400): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(548310,842722), p2=(548310,838912)
+LINE entity, line 14416
+WARNING (014426): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(548373,842722), p2=(548373,838912)
+LINE entity, line 14442
+WARNING (014452): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(552056,842722), p2=(552056,838912)
+LINE entity, line 14468
+WARNING (014478): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(552120,842722), p2=(552120,838912)
+LINE entity, line 14494
+WARNING (014504): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(549453,840309), p2=(549453,841325)
+LINE entity, line 14520
+WARNING (014530): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(549453,840309), p2=(550977,840309)
+LINE entity, line 14546
+WARNING (014556): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(550977,840309), p2=(550977,841325)
+LINE entity, line 14572
+WARNING (014582): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(549453,841325), p2=(550977,841325)
+LINE entity, line 14598
+WARNING (014608): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(549834,841325), p2=(549834,840309)
+LINE entity, line 14624
+WARNING (014634): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(550596,840309), p2=(550596,841325)
+LINE entity, line 14650
+WARNING (014660): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(554761,842722), p2=(554761,838912)
+LINE entity, line 14676
+WARNING (014686): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(554825,842722), p2=(554825,838912)
+LINE entity, line 14702
+WARNING (014712): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(558508,842722), p2=(558508,838912)
+LINE entity, line 14728
+WARNING (014738): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(558571,842722), p2=(558571,838912)
+LINE entity, line 14754
+WARNING (014764): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(555904,840309), p2=(555904,841325)
+LINE entity, line 14780
+WARNING (014790): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(555904,840309), p2=(557428,840309)
+LINE entity, line 14806
+WARNING (014816): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(557428,840309), p2=(557428,841325)
+LINE entity, line 14832
+WARNING (014842): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(555904,841325), p2=(557428,841325)
+LINE entity, line 14858
+WARNING (014868): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(556285,841325), p2=(556285,840309)
+LINE entity, line 14884
+WARNING (014894): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(557047,840309), p2=(557047,841325)
+LINE entity, line 14910
+WARNING (014920): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(566979,844043), p2=(566979,837591)
+LINE entity, line 14936
+WARNING (014946): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(539902,837591), p2=(541182,837591)
+LINE entity, line 14962
+WARNING (014972): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(546344,837591), p2=(547634,837591)
+LINE entity, line 14988
+WARNING (014998): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(552795,837591), p2=(554086,837591)
+LINE entity, line 15014
+WARNING (015024): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(559247,837591), p2=(560537,837591)
+LINE entity, line 15040
+WARNING (015050): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(565699,837591), p2=(566979,837591)
+LINE entity, line 15066
+WARNING (015076): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(539902,844043), p2=(541182,844043)
+LINE entity, line 15092
+WARNING (015102): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(546344,844043), p2=(547634,844043)
+LINE entity, line 15118
+WARNING (015128): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(552795,844043), p2=(554086,844043)
+LINE entity, line 15144
+WARNING (015154): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(559247,844043), p2=(560537,844043)
+LINE entity, line 15170
+WARNING (015180): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(565699,844043), p2=(566979,844043)
+LINE entity, line 15196
+WARNING (015206): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(545795,842849), p2=(545795,838785)
+LINE entity, line 15222
+WARNING (015232): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(545795,838785), p2=(541731,838785)
+LINE entity, line 15248
+WARNING (015258): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(541731,838785), p2=(541731,842849)
+LINE entity, line 15274
+WARNING (015284): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(541731,842849), p2=(545795,842849)
+LINE entity, line 15300
+WARNING (015310): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(552247,842849), p2=(552247,838785)
+LINE entity, line 15326
+WARNING (015336): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(552247,838785), p2=(548183,838785)
+LINE entity, line 15352
+WARNING (015362): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(548183,838785), p2=(548183,842849)
+LINE entity, line 15378
+WARNING (015388): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(548183,842849), p2=(552247,842849)
+LINE entity, line 15404
+WARNING (015414): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(558698,842849), p2=(558698,838785)
+LINE entity, line 15430
+WARNING (015440): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(558698,838785), p2=(554634,838785)
+LINE entity, line 15456
+WARNING (015466): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(554634,838785), p2=(554634,842849)
+LINE entity, line 15482
+WARNING (015492): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(554634,842849), p2=(558698,842849)
+LINE entity, line 15508
+WARNING (015518): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(565150,842849), p2=(565150,838785)
+LINE entity, line 15534
+WARNING (015544): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(565150,838785), p2=(561086,838785)
+LINE entity, line 15560
+WARNING (015570): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(561086,838785), p2=(561086,842849)
+LINE entity, line 15586
+WARNING (015596): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(561086,842849), p2=(565150,842849)
+LINE entity, line 15612
+WARNING (015622): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(545033,842087), p2=(545033,839547)
+LINE entity, line 15638
+WARNING (015648): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(545033,839547), p2=(545795,838785)
+LINE entity, line 15664
+WARNING (015674): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(545033,842087), p2=(545795,842849)
+LINE entity, line 15690
+WARNING (015700): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(542874,839928), p2=(542874,841706)
+LINE entity, line 15716
+WARNING (015726): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(542874,841706), p2=(544652,841706)
+LINE entity, line 15742
+WARNING (015752): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(544652,839928), p2=(544652,841706)
+LINE entity, line 15768
+WARNING (015778): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(542874,839928), p2=(544652,839928)
+LINE entity, line 15794
+WARNING (015804): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(542493,839547), p2=(542493,842087)
+LINE entity, line 15820
+WARNING (015830): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(545033,839547), p2=(542493,839547)
+LINE entity, line 15846
+WARNING (015856): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(542493,839547), p2=(541731,838785)
+LINE entity, line 15872
+WARNING (015882): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(542493,842087), p2=(541731,842849)
+LINE entity, line 15898
+WARNING (015908): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(542493,842087), p2=(545033,842087)
+LINE entity, line 15924
+WARNING (015934): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(551485,842087), p2=(551485,839547)
+LINE entity, line 15950
+WARNING (015960): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(551485,839547), p2=(552247,838785)
+LINE entity, line 15976
+WARNING (015986): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(551485,842087), p2=(552247,842849)
+LINE entity, line 16002
+WARNING (016012): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(549326,839928), p2=(549326,841706)
+LINE entity, line 16028
+WARNING (016038): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(549326,841706), p2=(551104,841706)
+LINE entity, line 16054
+WARNING (016064): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(551104,839928), p2=(551104,841706)
+LINE entity, line 16080
+WARNING (016090): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(549326,839928), p2=(551104,839928)
+LINE entity, line 16106
+WARNING (016116): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(548945,839547), p2=(548945,842087)
+LINE entity, line 16132
+WARNING (016142): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(551485,839547), p2=(548945,839547)
+LINE entity, line 16158
+WARNING (016168): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(548945,839547), p2=(548183,838785)
+LINE entity, line 16184
+WARNING (016194): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(548945,842087), p2=(548183,842849)
+LINE entity, line 16210
+WARNING (016220): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(548945,842087), p2=(551485,842087)
+LINE entity, line 16236
+WARNING (016246): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(557936,842087), p2=(557936,839547)
+LINE entity, line 16262
+WARNING (016272): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(557936,839547), p2=(558698,838785)
+LINE entity, line 16288
+WARNING (016298): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(557936,842087), p2=(558698,842849)
+LINE entity, line 16314
+WARNING (016324): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(555777,839928), p2=(555777,841706)
+LINE entity, line 16340
+WARNING (016350): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(555777,841706), p2=(557555,841706)
+LINE entity, line 16366
+WARNING (016376): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(557555,839928), p2=(557555,841706)
+LINE entity, line 16392
+WARNING (016402): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(555777,839928), p2=(557555,839928)
+LINE entity, line 16418
+WARNING (016428): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(555396,839547), p2=(555396,842087)
+LINE entity, line 16444
+WARNING (016454): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(557936,839547), p2=(555396,839547)
+LINE entity, line 16470
+WARNING (016480): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(555396,839547), p2=(554634,838785)
+LINE entity, line 16496
+WARNING (016506): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(555396,842087), p2=(554634,842849)
+LINE entity, line 16522
+WARNING (016532): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(555396,842087), p2=(557936,842087)
+LINE entity, line 16548
+WARNING (016558): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(564388,842087), p2=(564388,839547)
+LINE entity, line 16574
+WARNING (016584): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(564388,839547), p2=(565150,838785)
+LINE entity, line 16600
+WARNING (016610): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(564388,842087), p2=(565150,842849)
+LINE entity, line 16626
+WARNING (016636): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(562229,839928), p2=(562229,841706)
+LINE entity, line 16652
+WARNING (016662): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(562229,841706), p2=(564007,841706)
+LINE entity, line 16678
+WARNING (016688): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(564007,839928), p2=(564007,841706)
+LINE entity, line 16704
+WARNING (016714): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(562229,839928), p2=(564007,839928)
+LINE entity, line 16730
+WARNING (016740): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(561848,839547), p2=(561848,842087)
+LINE entity, line 16756
+WARNING (016766): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(564388,839547), p2=(561848,839547)
+LINE entity, line 16782
+WARNING (016792): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(561848,839547), p2=(561086,838785)
+LINE entity, line 16808
+WARNING (016818): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(561848,842087), p2=(561086,842849)
+LINE entity, line 16834
+WARNING (016844): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(561848,842087), p2=(564388,842087)
+LINE entity, line 16860
+WARNING (016870): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(562737,841325), p2=(562737,840309)
+LINE entity, line 16886
+WARNING (016896): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(563499,840309), p2=(563499,841325)
+LINE entity, line 16912
+WARNING (016922): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(542950,841617), p2=(542950,839991)
+LINE entity, line 16938
+WARNING (016948): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(544576,839991), p2=(544576,841617)
+LINE entity, line 16964
+WARNING (016974): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(544576,841617), p2=(542950,841617)
+SPLINE entity, line 16990
+WARNING (017000): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 17144
+WARNING (017154): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 17298
+WARNING (017308): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 17452
+WARNING (017462): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+LINE entity, line 17606
+WARNING (017616): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(542471,839512), p2=(542416,839457)
+LINE entity, line 17632
+WARNING (017642): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(545056,839512), p2=(545110,839457)
+LINE entity, line 17658
+WARNING (017668): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(544576,841617), p2=(544589,841630)
+LINE entity, line 17684
+WARNING (017694): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(545056,842097), p2=(545110,842151)
+LINE entity, line 17710
+WARNING (017720): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(542950,841617), p2=(542938,841630)
+LINE entity, line 17736
+WARNING (017746): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(542471,842097), p2=(542416,842151)
+LINE entity, line 17762
+LINE: layer="Visible (ANSI)", p1=(542950,839991), p2=(542471,839512)
+LINE entity, line 17786
+LINE: layer="Visible (ANSI)", p1=(544576,839991), p2=(545056,839512)
+LINE entity, line 17810
+LINE: layer="Visible (ANSI)", p1=(544589,841630), p2=(545056,842097)
+LINE entity, line 17834
+LINE: layer="Visible (ANSI)", p1=(542938,841630), p2=(542471,842097)
+LINE entity, line 17858
+WARNING (017868): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(549402,841617), p2=(549402,839991)
+LINE entity, line 17884
+WARNING (017894): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(551028,839991), p2=(551028,841617)
+LINE entity, line 17910
+WARNING (017920): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(551028,841617), p2=(549402,841617)
+SPLINE entity, line 17936
+WARNING (017946): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 18090
+WARNING (018100): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 18244
+WARNING (018254): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 18398
+WARNING (018408): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+LINE entity, line 18552
+WARNING (018562): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(548922,839512), p2=(548868,839457)
+LINE entity, line 18578
+WARNING (018588): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(551507,839512), p2=(551562,839457)
+LINE entity, line 18604
+WARNING (018614): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(551028,841617), p2=(551040,841630)
+LINE entity, line 18630
+WARNING (018640): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(551507,842097), p2=(551562,842151)
+LINE entity, line 18656
+WARNING (018666): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(549402,841617), p2=(549389,841630)
+LINE entity, line 18682
+WARNING (018692): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(548922,842097), p2=(548868,842151)
+LINE entity, line 18708
+LINE: layer="Visible (ANSI)", p1=(549402,839991), p2=(548922,839512)
+LINE entity, line 18732
+LINE: layer="Visible (ANSI)", p1=(551028,839991), p2=(551507,839512)
+LINE entity, line 18756
+LINE: layer="Visible (ANSI)", p1=(551040,841630), p2=(551507,842097)
+LINE entity, line 18780
+LINE: layer="Visible (ANSI)", p1=(549389,841630), p2=(548922,842097)
+LINE entity, line 18804
+WARNING (018814): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(555854,841617), p2=(555854,839991)
+LINE entity, line 18830
+WARNING (018840): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(557479,839991), p2=(557479,841617)
+LINE entity, line 18856
+WARNING (018866): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(557479,841617), p2=(555854,841617)
+SPLINE entity, line 18882
+WARNING (018892): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 19036
+WARNING (019046): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 19190
+WARNING (019200): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 19344
+WARNING (019354): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+LINE entity, line 19498
+WARNING (019508): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(555374,839512), p2=(555319,839457)
+LINE entity, line 19524
+WARNING (019534): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(557959,839512), p2=(558013,839457)
+LINE entity, line 19550
+WARNING (019560): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(557479,841617), p2=(557492,841630)
+LINE entity, line 19576
+WARNING (019586): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(557959,842097), p2=(558013,842151)
+LINE entity, line 19602
+WARNING (019612): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(555854,841617), p2=(555841,841630)
+LINE entity, line 19628
+WARNING (019638): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(555374,842097), p2=(555319,842151)
+LINE entity, line 19654
+LINE: layer="Visible (ANSI)", p1=(555854,839991), p2=(555374,839512)
+LINE entity, line 19678
+LINE: layer="Visible (ANSI)", p1=(557479,839991), p2=(557959,839512)
+LINE entity, line 19702
+LINE: layer="Visible (ANSI)", p1=(557492,841630), p2=(557959,842097)
+LINE entity, line 19726
+LINE: layer="Visible (ANSI)", p1=(555841,841630), p2=(555374,842097)
+LINE entity, line 19750
+WARNING (019760): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(562305,841617), p2=(562305,839991)
+LINE entity, line 19776
+WARNING (019786): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(563931,839991), p2=(563931,841617)
+LINE entity, line 19802
+WARNING (019812): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(563931,841617), p2=(562305,841617)
+SPLINE entity, line 19828
+WARNING (019838): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 19982
+WARNING (019992): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 20136
+WARNING (020146): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 20290
+WARNING (020300): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+LINE entity, line 20444
+WARNING (020454): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(561825,839512), p2=(561771,839457)
+LINE entity, line 20470
+WARNING (020480): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(564410,839512), p2=(564465,839457)
+LINE entity, line 20496
+WARNING (020506): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(563931,841617), p2=(563943,841630)
+LINE entity, line 20522
+WARNING (020532): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(564410,842097), p2=(564465,842151)
+LINE entity, line 20548
+WARNING (020558): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(562305,841617), p2=(562292,841630)
+LINE entity, line 20574
+WARNING (020584): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(561825,842097), p2=(561771,842151)
+LINE entity, line 20600
+LINE: layer="Visible (ANSI)", p1=(562305,839991), p2=(561825,839512)
+LINE entity, line 20624
+LINE: layer="Visible (ANSI)", p1=(563931,839991), p2=(564410,839512)
+LINE entity, line 20648
+LINE: layer="Visible (ANSI)", p1=(563943,841630), p2=(564410,842097)
+LINE entity, line 20672
+LINE: layer="Visible (ANSI)", p1=(562292,841630), p2=(561825,842097)
+LINE entity, line 20696
+LINE: layer="Visible (ANSI)", p1=(1167581,656600), p2=(1580331,656600)
+LINE entity, line 20720
+LINE: layer="Visible (ANSI)", p1=(1167581,896630), p2=(1167581,656600)
+LINE entity, line 20744
+LINE: layer="Visible (ANSI)", p1=(1580331,896630), p2=(1167581,896630)
+LINE entity, line 20768
+LINE: layer="Visible (ANSI)", p1=(1580331,656600), p2=(1580331,896630)
+LINE entity, line 20792
+LINE: layer="Visible (ANSI)", p1=(1583506,595005), p2=(1583506,899805)
+LINE entity, line 20816
+LINE: layer="Visible (ANSI)", p1=(1164406,595005), p2=(1583506,595005)
+LINE entity, line 20840
+LINE: layer="Visible (ANSI)", p1=(1164406,899805), p2=(1164406,595005)
+LINE entity, line 20864
+LINE: layer="Visible (ANSI)", p1=(1583506,899805), p2=(1164406,899805)
+CIRCLE entity, line 20888
+CIRCLE: layer="Visible (ANSI)", c=(1561281,558810), r=19050
+LINE entity, line 20908
+LINE: layer="Visible (ANSI)", p1=(1586681,533410), p2=(1586681,961400)
+LINE entity, line 20932
+LINE: layer="Visible (ANSI)", p1=(1462856,533410), p2=(1586681,533410)
+CIRCLE entity, line 20956
+CIRCLE: layer="Visible (ANSI)", c=(1186631,558810), r=19050
+LINE entity, line 20976
+LINE: layer="Visible (ANSI)", p1=(1161231,961400), p2=(1161231,533410)
+LINE entity, line 21000
+LINE: layer="Visible (ANSI)", p1=(1161231,533410), p2=(1285056,533410)
+CIRCLE entity, line 21024
+CIRCLE: layer="Visible (ANSI)", c=(1561281,923300), r=19050
+CIRCLE entity, line 21044
+CIRCLE: layer="Visible (ANSI)", c=(1186631,923300), r=19050
+LINE entity, line 21064
+LINE: layer="Visible (ANSI)", p1=(1285056,533410), p2=(1285056,584210)
+LINE entity, line 21088
+LINE: layer="Visible (ANSI)", p1=(1586681,961400), p2=(1161231,961400)
+LINE entity, line 21112
+LINE: layer="Visible (ANSI)", p1=(1462856,584210), p2=(1462856,533410)
+LINE entity, line 21136
+LINE: layer="Visible (ANSI)", p1=(1285056,584210), p2=(1462856,584210)
+LINE entity, line 21160
+WARNING (021170): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1312666,961019), p2=(1312666,928761)
+LINE entity, line 21186
+WARNING (021196): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1309440,957793), p2=(1312666,961019)
+LINE entity, line 21212
+WARNING (021222): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1309440,931987), p2=(1309440,957793)
+LINE entity, line 21238
+WARNING (021248): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1312666,928761), p2=(1309440,931987)
+LINE entity, line 21264
+WARNING (021274): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1344924,961019), p2=(1344924,928761)
+LINE entity, line 21290
+WARNING (021300): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1341698,957793), p2=(1344924,961019)
+LINE entity, line 21316
+WARNING (021326): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1338472,961019), p2=(1341698,957793)
+LINE entity, line 21342
+WARNING (021352): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1338472,961019), p2=(1338472,928761)
+LINE entity, line 21368
+WARNING (021378): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1341698,931987), p2=(1338472,928761)
+LINE entity, line 21394
+WARNING (021404): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1344924,928761), p2=(1341698,931987)
+LINE entity, line 21420
+WARNING (021430): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1377182,961019), p2=(1377182,928761)
+LINE entity, line 21446
+WARNING (021456): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1373956,957793), p2=(1377182,961019)
+LINE entity, line 21472
+WARNING (021482): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1370730,961019), p2=(1373956,957793)
+LINE entity, line 21498
+WARNING (021508): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1370730,961019), p2=(1370730,928761)
+LINE entity, line 21524
+WARNING (021534): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1373956,931987), p2=(1370730,928761)
+LINE entity, line 21550
+WARNING (021560): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1377182,928761), p2=(1373956,931987)
+LINE entity, line 21576
+WARNING (021586): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1409440,961019), p2=(1409440,928761)
+LINE entity, line 21602
+WARNING (021612): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1406214,957793), p2=(1409440,961019)
+LINE entity, line 21628
+WARNING (021638): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1402988,961019), p2=(1406214,957793)
+LINE entity, line 21654
+WARNING (021664): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1402988,961019), p2=(1402988,928761)
+LINE entity, line 21680
+WARNING (021690): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1406214,931987), p2=(1402988,928761)
+LINE entity, line 21706
+WARNING (021716): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1409440,928761), p2=(1406214,931987)
+LINE entity, line 21732
+WARNING (021742): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1435246,961019), p2=(1435246,928761)
+LINE entity, line 21758
+WARNING (021768): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1438472,931987), p2=(1435246,928761)
+LINE entity, line 21784
+WARNING (021794): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1438472,957793), p2=(1438472,931987)
+LINE entity, line 21810
+WARNING (021820): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1435246,961019), p2=(1438472,957793)
+LINE entity, line 21836
+WARNING (021846): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1338472,928761), p2=(1312666,928761)
+LINE entity, line 21862
+WARNING (021872): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1312666,961019), p2=(1338472,961019)
+LINE entity, line 21888
+WARNING (021898): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1377182,961019), p2=(1402988,961019)
+LINE entity, line 21914
+WARNING (021924): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1402988,928761), p2=(1377182,928761)
+LINE entity, line 21940
+WARNING (021950): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1344924,961019), p2=(1370730,961019)
+LINE entity, line 21966
+WARNING (021976): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1370730,928761), p2=(1344924,928761)
+LINE entity, line 21992
+WARNING (022002): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1409440,961019), p2=(1435246,961019)
+LINE entity, line 22018
+WARNING (022028): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1435246,928761), p2=(1409440,928761)
+LINE entity, line 22044
+LINE: layer="Visible (ANSI)", p1=(1353700,940762), p2=(1353700,949017)
+LINE entity, line 22068
+LINE: layer="Visible (ANSI)", p1=(1361955,940762), p2=(1353700,940762)
+LINE entity, line 22092
+LINE: layer="Visible (ANSI)", p1=(1361955,949017), p2=(1361955,940762)
+LINE entity, line 22116
+LINE: layer="Visible (ANSI)", p1=(1361955,949017), p2=(1353700,949017)
+LINE entity, line 22140
+LINE: layer="Visible (ANSI)", p1=(1356240,946477), p2=(1353700,949017)
+LINE entity, line 22164
+LINE: layer="Visible (ANSI)", p1=(1359415,946477), p2=(1356240,946477)
+LINE entity, line 22188
+LINE: layer="Visible (ANSI)", p1=(1359415,946477), p2=(1361955,949017)
+LINE entity, line 22212
+LINE: layer="Visible (ANSI)", p1=(1359415,946477), p2=(1359415,943302)
+LINE entity, line 22236
+LINE: layer="Visible (ANSI)", p1=(1361955,940762), p2=(1359415,943302)
+LINE entity, line 22260
+LINE: layer="Visible (ANSI)", p1=(1359415,943302), p2=(1356240,943302)
+LINE entity, line 22284
+LINE: layer="Visible (ANSI)", p1=(1356240,943302), p2=(1356240,946477)
+LINE entity, line 22308
+LINE: layer="Visible (ANSI)", p1=(1356240,943302), p2=(1353700,940762)
+LINE entity, line 22332
+LINE: layer="Visible (ANSI)", p1=(1418216,940762), p2=(1418216,949017)
+LINE entity, line 22356
+LINE: layer="Visible (ANSI)", p1=(1426471,940762), p2=(1418216,940762)
+LINE entity, line 22380
+LINE: layer="Visible (ANSI)", p1=(1426471,949017), p2=(1426471,940762)
+LINE entity, line 22404
+LINE: layer="Visible (ANSI)", p1=(1426471,949017), p2=(1418216,949017)
+LINE entity, line 22428
+LINE: layer="Visible (ANSI)", p1=(1420756,946477), p2=(1418216,949017)
+LINE entity, line 22452
+LINE: layer="Visible (ANSI)", p1=(1423931,946477), p2=(1420756,946477)
+LINE entity, line 22476
+LINE: layer="Visible (ANSI)", p1=(1423931,946477), p2=(1426471,949017)
+LINE entity, line 22500
+LINE: layer="Visible (ANSI)", p1=(1423931,946477), p2=(1423931,943302)
+LINE entity, line 22524
+LINE: layer="Visible (ANSI)", p1=(1426471,940762), p2=(1423931,943302)
+LINE entity, line 22548
+LINE: layer="Visible (ANSI)", p1=(1423931,943302), p2=(1420756,943302)
+LINE entity, line 22572
+LINE: layer="Visible (ANSI)", p1=(1420756,943302), p2=(1420756,946477)
+LINE entity, line 22596
+LINE: layer="Visible (ANSI)", p1=(1420756,943302), p2=(1418216,940762)
+LINE entity, line 22620
+LINE: layer="Visible (ANSI)", p1=(1385958,940762), p2=(1385958,949017)
+LINE entity, line 22644
+LINE: layer="Visible (ANSI)", p1=(1394213,940762), p2=(1385958,940762)
+LINE entity, line 22668
+LINE: layer="Visible (ANSI)", p1=(1394213,949017), p2=(1394213,940762)
+LINE entity, line 22692
+LINE: layer="Visible (ANSI)", p1=(1394213,949017), p2=(1385958,949017)
+LINE entity, line 22716
+LINE: layer="Visible (ANSI)", p1=(1388498,946477), p2=(1385958,949017)
+LINE entity, line 22740
+LINE: layer="Visible (ANSI)", p1=(1391673,946477), p2=(1388498,946477)
+LINE entity, line 22764
+LINE: layer="Visible (ANSI)", p1=(1391673,946477), p2=(1394213,949017)
+LINE entity, line 22788
+LINE: layer="Visible (ANSI)", p1=(1391673,946477), p2=(1391673,943302)
+LINE entity, line 22812
+LINE: layer="Visible (ANSI)", p1=(1394213,940762), p2=(1391673,943302)
+LINE entity, line 22836
+LINE: layer="Visible (ANSI)", p1=(1391673,943302), p2=(1388498,943302)
+LINE entity, line 22860
+LINE: layer="Visible (ANSI)", p1=(1388498,943302), p2=(1388498,946477)
+LINE entity, line 22884
+LINE: layer="Visible (ANSI)", p1=(1388498,943302), p2=(1385958,940762)
+LINE entity, line 22908
+LINE: layer="Visible (ANSI)", p1=(1321442,940762), p2=(1321442,949017)
+LINE entity, line 22932
+LINE: layer="Visible (ANSI)", p1=(1329697,940762), p2=(1321442,940762)
+LINE entity, line 22956
+LINE: layer="Visible (ANSI)", p1=(1329697,949017), p2=(1329697,940762)
+LINE entity, line 22980
+LINE: layer="Visible (ANSI)", p1=(1329697,949017), p2=(1321442,949017)
+LINE entity, line 23004
+LINE: layer="Visible (ANSI)", p1=(1323982,946477), p2=(1321442,949017)
+LINE entity, line 23028
+LINE: layer="Visible (ANSI)", p1=(1327157,946477), p2=(1323982,946477)
+LINE entity, line 23052
+LINE: layer="Visible (ANSI)", p1=(1327157,946477), p2=(1329697,949017)
+LINE entity, line 23076
+LINE: layer="Visible (ANSI)", p1=(1327157,946477), p2=(1327157,943302)
+LINE entity, line 23100
+LINE: layer="Visible (ANSI)", p1=(1329697,940762), p2=(1327157,943302)
+LINE entity, line 23124
+LINE: layer="Visible (ANSI)", p1=(1327157,943302), p2=(1323982,943302)
+LINE entity, line 23148
+LINE: layer="Visible (ANSI)", p1=(1323982,943302), p2=(1323982,946477)
+LINE entity, line 23172
+LINE: layer="Visible (ANSI)", p1=(1323982,943302), p2=(1321442,940762)
+LINE entity, line 23196
+WARNING (023206): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1306265,961019), p2=(1306265,928761)
+LINE entity, line 23222
+WARNING (023232): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1413136,935365), p2=(1431551,935365)
+LINE entity, line 23248
+WARNING (023258): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1431551,935365), p2=(1431868,935365)
+LINE entity, line 23274
+WARNING (023284): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1431868,935365), p2=(1441647,935365)
+LINE entity, line 23300
+WARNING (023310): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1306265,935365), p2=(1316044,935365)
+LINE entity, line 23326
+WARNING (023336): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1316044,935365), p2=(1316362,935365)
+LINE entity, line 23352
+WARNING (023362): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1316362,935365), p2=(1334777,935365)
+LINE entity, line 23378
+WARNING (023388): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1334777,935365), p2=(1335094,935365)
+LINE entity, line 23404
+WARNING (023414): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1335094,935365), p2=(1348302,935365)
+LINE entity, line 23430
+WARNING (023440): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1348302,935365), p2=(1348620,935365)
+LINE entity, line 23456
+WARNING (023466): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1348620,935365), p2=(1367035,935365)
+LINE entity, line 23482
+WARNING (023492): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1367035,935365), p2=(1367352,935365)
+LINE entity, line 23508
+WARNING (023518): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1367352,935365), p2=(1380560,935365)
+LINE entity, line 23534
+WARNING (023544): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1380560,935365), p2=(1380878,935365)
+LINE entity, line 23560
+WARNING (023570): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1380878,935365), p2=(1399293,935365)
+LINE entity, line 23586
+WARNING (023596): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1399293,935365), p2=(1399610,935365)
+LINE entity, line 23612
+WARNING (023622): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1399610,935365), p2=(1412818,935365)
+LINE entity, line 23638
+WARNING (023648): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1412818,935365), p2=(1413136,935365)
+LINE entity, line 23664
+WARNING (023674): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1413136,954415), p2=(1413136,935365)
+LINE entity, line 23690
+WARNING (023700): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1413136,954415), p2=(1431551,954415)
+LINE entity, line 23716
+WARNING (023726): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1418533,942350), p2=(1418533,947430)
+LINE entity, line 23742
+WARNING (023752): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1418533,942350), p2=(1426153,942350)
+LINE entity, line 23768
+WARNING (023778): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1426153,942350), p2=(1426153,947430)
+LINE entity, line 23794
+WARNING (023804): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1418533,947430), p2=(1426153,947430)
+LINE entity, line 23820
+WARNING (023830): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1431551,954415), p2=(1431551,935365)
+LINE entity, line 23846
+WARNING (023856): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1412818,954415), p2=(1412818,935365)
+LINE entity, line 23872
+WARNING (023882): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1412818,954415), p2=(1413136,954415)
+LINE entity, line 23898
+WARNING (023908): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1431551,954415), p2=(1431868,954415)
+LINE entity, line 23924
+WARNING (023934): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1431868,954415), p2=(1431868,935365)
+LINE entity, line 23950
+WARNING (023960): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1399610,954415), p2=(1412818,954415)
+LINE entity, line 23976
+WARNING (023986): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1399293,954415), p2=(1399610,954415)
+LINE entity, line 24002
+WARNING (024012): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1380878,954415), p2=(1399293,954415)
+LINE entity, line 24028
+WARNING (024038): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1380560,954415), p2=(1380878,954415)
+LINE entity, line 24054
+WARNING (024064): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1367352,954415), p2=(1380560,954415)
+LINE entity, line 24080
+WARNING (024090): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1367035,954415), p2=(1367352,954415)
+LINE entity, line 24106
+WARNING (024116): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1348620,954415), p2=(1367035,954415)
+LINE entity, line 24132
+WARNING (024142): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1348302,954415), p2=(1348620,954415)
+LINE entity, line 24158
+WARNING (024168): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1335094,954415), p2=(1348302,954415)
+LINE entity, line 24184
+WARNING (024194): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1335094,954415), p2=(1334777,954415)
+LINE entity, line 24210
+WARNING (024220): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1316362,954415), p2=(1334777,954415)
+LINE entity, line 24236
+WARNING (024246): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1316362,954415), p2=(1316044,954415)
+LINE entity, line 24262
+WARNING (024272): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1306265,954415), p2=(1316044,954415)
+LINE entity, line 24288
+WARNING (024298): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1431868,954415), p2=(1441647,954415)
+LINE entity, line 24314
+WARNING (024324): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1316044,935365), p2=(1316044,954415)
+LINE entity, line 24340
+WARNING (024350): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1316362,954415), p2=(1316362,935365)
+LINE entity, line 24366
+WARNING (024376): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1334777,954415), p2=(1334777,935365)
+LINE entity, line 24392
+WARNING (024402): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1335094,935365), p2=(1335094,954415)
+LINE entity, line 24418
+WARNING (024428): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1321759,942350), p2=(1321759,947430)
+LINE entity, line 24444
+WARNING (024454): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1321759,942350), p2=(1329379,942350)
+LINE entity, line 24470
+WARNING (024480): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1329379,942350), p2=(1329379,947430)
+LINE entity, line 24496
+WARNING (024506): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1321759,947430), p2=(1329379,947430)
+LINE entity, line 24522
+WARNING (024532): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1323664,947430), p2=(1323664,942350)
+LINE entity, line 24548
+WARNING (024558): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1327474,942350), p2=(1327474,947430)
+LINE entity, line 24574
+WARNING (024584): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1348302,954415), p2=(1348302,935365)
+LINE entity, line 24600
+WARNING (024610): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1348620,954415), p2=(1348620,935365)
+LINE entity, line 24626
+WARNING (024636): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1367035,954415), p2=(1367035,935365)
+LINE entity, line 24652
+WARNING (024662): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1367352,954415), p2=(1367352,935365)
+LINE entity, line 24678
+WARNING (024688): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1354017,942350), p2=(1354017,947430)
+LINE entity, line 24704
+WARNING (024714): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1354017,942350), p2=(1361637,942350)
+LINE entity, line 24730
+WARNING (024740): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1361637,942350), p2=(1361637,947430)
+LINE entity, line 24756
+WARNING (024766): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1354017,947430), p2=(1361637,947430)
+LINE entity, line 24782
+WARNING (024792): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1355922,947430), p2=(1355922,942350)
+LINE entity, line 24808
+WARNING (024818): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1359732,942350), p2=(1359732,947430)
+LINE entity, line 24834
+WARNING (024844): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1380560,954415), p2=(1380560,935365)
+LINE entity, line 24860
+WARNING (024870): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1380878,954415), p2=(1380878,935365)
+LINE entity, line 24886
+WARNING (024896): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1399293,954415), p2=(1399293,935365)
+LINE entity, line 24912
+WARNING (024922): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1399610,954415), p2=(1399610,935365)
+LINE entity, line 24938
+WARNING (024948): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1386275,942350), p2=(1386275,947430)
+LINE entity, line 24964
+WARNING (024974): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1386275,942350), p2=(1393895,942350)
+LINE entity, line 24990
+WARNING (025000): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1393895,942350), p2=(1393895,947430)
+LINE entity, line 25016
+WARNING (025026): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1386275,947430), p2=(1393895,947430)
+LINE entity, line 25042
+WARNING (025052): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1388180,947430), p2=(1388180,942350)
+LINE entity, line 25068
+WARNING (025078): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1391990,942350), p2=(1391990,947430)
+LINE entity, line 25094
+WARNING (025104): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1441647,961019), p2=(1441647,928761)
+LINE entity, line 25120
+WARNING (025130): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1306265,928761), p2=(1312666,928761)
+LINE entity, line 25146
+WARNING (025156): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1338472,928761), p2=(1344924,928761)
+LINE entity, line 25172
+WARNING (025182): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1370730,928761), p2=(1377182,928761)
+LINE entity, line 25198
+WARNING (025208): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1402988,928761), p2=(1409440,928761)
+LINE entity, line 25224
+WARNING (025234): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1435246,928761), p2=(1441647,928761)
+LINE entity, line 25250
+WARNING (025260): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1306265,961019), p2=(1312666,961019)
+LINE entity, line 25276
+WARNING (025286): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1338472,961019), p2=(1344924,961019)
+LINE entity, line 25302
+WARNING (025312): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1370730,961019), p2=(1377182,961019)
+LINE entity, line 25328
+WARNING (025338): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1402988,961019), p2=(1409440,961019)
+LINE entity, line 25354
+WARNING (025364): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1435246,961019), p2=(1441647,961019)
+LINE entity, line 25380
+WARNING (025390): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1335729,955050), p2=(1335729,934730)
+LINE entity, line 25406
+WARNING (025416): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1335729,934730), p2=(1315409,934730)
+LINE entity, line 25432
+WARNING (025442): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1315409,934730), p2=(1315409,955050)
+LINE entity, line 25458
+WARNING (025468): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1315409,955050), p2=(1335729,955050)
+LINE entity, line 25484
+WARNING (025494): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1367987,955050), p2=(1367987,934730)
+LINE entity, line 25510
+WARNING (025520): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1367987,934730), p2=(1347667,934730)
+LINE entity, line 25536
+WARNING (025546): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1347667,934730), p2=(1347667,955050)
+LINE entity, line 25562
+WARNING (025572): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1347667,955050), p2=(1367987,955050)
+LINE entity, line 25588
+WARNING (025598): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1400245,955050), p2=(1400245,934730)
+LINE entity, line 25614
+WARNING (025624): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1400245,934730), p2=(1379925,934730)
+LINE entity, line 25640
+WARNING (025650): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1379925,934730), p2=(1379925,955050)
+LINE entity, line 25666
+WARNING (025676): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1379925,955050), p2=(1400245,955050)
+LINE entity, line 25692
+WARNING (025702): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1432503,955050), p2=(1432503,934730)
+LINE entity, line 25718
+WARNING (025728): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1432503,934730), p2=(1412183,934730)
+LINE entity, line 25744
+WARNING (025754): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1412183,934730), p2=(1412183,955050)
+LINE entity, line 25770
+WARNING (025780): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1412183,955050), p2=(1432503,955050)
+LINE entity, line 25796
+WARNING (025806): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1331919,951240), p2=(1331919,938540)
+LINE entity, line 25822
+WARNING (025832): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1331919,938540), p2=(1335729,934730)
+LINE entity, line 25848
+WARNING (025858): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1331919,951240), p2=(1335729,955050)
+LINE entity, line 25874
+WARNING (025884): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1321124,940445), p2=(1321124,949335)
+LINE entity, line 25900
+WARNING (025910): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1321124,949335), p2=(1330014,949335)
+LINE entity, line 25926
+WARNING (025936): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1330014,940445), p2=(1330014,949335)
+LINE entity, line 25952
+WARNING (025962): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1321124,940445), p2=(1330014,940445)
+LINE entity, line 25978
+WARNING (025988): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1319219,938540), p2=(1319219,951240)
+LINE entity, line 26004
+WARNING (026014): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1331919,938540), p2=(1319219,938540)
+LINE entity, line 26030
+WARNING (026040): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1319219,938540), p2=(1315409,934730)
+LINE entity, line 26056
+WARNING (026066): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1319219,951240), p2=(1315409,955050)
+LINE entity, line 26082
+WARNING (026092): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1319219,951240), p2=(1331919,951240)
+LINE entity, line 26108
+WARNING (026118): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1364177,951240), p2=(1364177,938540)
+LINE entity, line 26134
+WARNING (026144): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1364177,938540), p2=(1367987,934730)
+LINE entity, line 26160
+WARNING (026170): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1364177,951240), p2=(1367987,955050)
+LINE entity, line 26186
+WARNING (026196): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1353382,940445), p2=(1353382,949335)
+LINE entity, line 26212
+WARNING (026222): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1353382,949335), p2=(1362272,949335)
+LINE entity, line 26238
+WARNING (026248): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1362272,940445), p2=(1362272,949335)
+LINE entity, line 26264
+WARNING (026274): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1353382,940445), p2=(1362272,940445)
+LINE entity, line 26290
+WARNING (026300): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1351477,938540), p2=(1351477,951240)
+LINE entity, line 26316
+WARNING (026326): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1364177,938540), p2=(1351477,938540)
+LINE entity, line 26342
+WARNING (026352): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1351477,938540), p2=(1347667,934730)
+LINE entity, line 26368
+WARNING (026378): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1351477,951240), p2=(1347667,955050)
+LINE entity, line 26394
+WARNING (026404): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1351477,951240), p2=(1364177,951240)
+LINE entity, line 26420
+WARNING (026430): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1396435,951240), p2=(1396435,938540)
+LINE entity, line 26446
+WARNING (026456): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1396435,938540), p2=(1400245,934730)
+LINE entity, line 26472
+WARNING (026482): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1396435,951240), p2=(1400245,955050)
+LINE entity, line 26498
+WARNING (026508): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1385640,940445), p2=(1385640,949335)
+LINE entity, line 26524
+WARNING (026534): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1385640,949335), p2=(1394530,949335)
+LINE entity, line 26550
+WARNING (026560): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1394530,940445), p2=(1394530,949335)
+LINE entity, line 26576
+WARNING (026586): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1385640,940445), p2=(1394530,940445)
+LINE entity, line 26602
+WARNING (026612): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1383735,938540), p2=(1383735,951240)
+LINE entity, line 26628
+WARNING (026638): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1396435,938540), p2=(1383735,938540)
+LINE entity, line 26654
+WARNING (026664): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1383735,938540), p2=(1379925,934730)
+LINE entity, line 26680
+WARNING (026690): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1383735,951240), p2=(1379925,955050)
+LINE entity, line 26706
+WARNING (026716): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1383735,951240), p2=(1396435,951240)
+LINE entity, line 26732
+WARNING (026742): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1428693,951240), p2=(1428693,938540)
+LINE entity, line 26758
+WARNING (026768): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1428693,938540), p2=(1432503,934730)
+LINE entity, line 26784
+WARNING (026794): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1428693,951240), p2=(1432503,955050)
+LINE entity, line 26810
+WARNING (026820): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1417898,940445), p2=(1417898,949335)
+LINE entity, line 26836
+WARNING (026846): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1417898,949335), p2=(1426788,949335)
+LINE entity, line 26862
+WARNING (026872): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1426788,940445), p2=(1426788,949335)
+LINE entity, line 26888
+WARNING (026898): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1417898,940445), p2=(1426788,940445)
+LINE entity, line 26914
+WARNING (026924): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1415993,938540), p2=(1415993,951240)
+LINE entity, line 26940
+WARNING (026950): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1428693,938540), p2=(1415993,938540)
+LINE entity, line 26966
+WARNING (026976): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1415993,938540), p2=(1412183,934730)
+LINE entity, line 26992
+WARNING (027002): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1415993,951240), p2=(1412183,955050)
+LINE entity, line 27018
+WARNING (027028): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1415993,951240), p2=(1428693,951240)
+LINE entity, line 27044
+WARNING (027054): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1420438,947430), p2=(1420438,942350)
+LINE entity, line 27070
+WARNING (027080): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1424248,942350), p2=(1424248,947430)
+LINE entity, line 27096
+WARNING (027106): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1321505,948890), p2=(1321505,940762)
+LINE entity, line 27122
+WARNING (027132): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1329633,940762), p2=(1329633,948890)
+LINE entity, line 27148
+WARNING (027158): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1329633,948890), p2=(1321505,948890)
+SPLINE entity, line 27174
+WARNING (027184): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 27328
+WARNING (027338): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 27482
+WARNING (027492): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 27636
+WARNING (027646): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+LINE entity, line 27790
+WARNING (027800): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1319106,938364), p2=(1318834,938091)
+LINE entity, line 27816
+WARNING (027826): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1332032,938364), p2=(1332304,938091)
+LINE entity, line 27842
+WARNING (027852): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1329633,948890), p2=(1329697,948954)
+LINE entity, line 27868
+WARNING (027878): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1332032,951289), p2=(1332304,951562)
+LINE entity, line 27894
+WARNING (027904): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1321505,948890), p2=(1321442,948954)
+LINE entity, line 27920
+WARNING (027930): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1319106,951289), p2=(1318834,951562)
+LINE entity, line 27946
+LINE: layer="Visible (ANSI)", p1=(1321505,940762), p2=(1319106,938364)
+LINE entity, line 27970
+LINE: layer="Visible (ANSI)", p1=(1329633,940762), p2=(1332032,938364)
+LINE entity, line 27994
+LINE: layer="Visible (ANSI)", p1=(1329697,948954), p2=(1332032,951289)
+LINE entity, line 28018
+LINE: layer="Visible (ANSI)", p1=(1321442,948954), p2=(1319106,951289)
+LINE entity, line 28042
+WARNING (028052): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1353763,948890), p2=(1353763,940762)
+LINE entity, line 28068
+WARNING (028078): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1361891,940762), p2=(1361891,948890)
+LINE entity, line 28094
+WARNING (028104): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1361891,948890), p2=(1353763,948890)
+SPLINE entity, line 28120
+WARNING (028130): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 28274
+WARNING (028284): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 28428
+WARNING (028438): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 28582
+WARNING (028592): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+LINE entity, line 28736
+WARNING (028746): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1351364,938364), p2=(1351092,938091)
+LINE entity, line 28762
+WARNING (028772): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1364290,938364), p2=(1364562,938091)
+LINE entity, line 28788
+WARNING (028798): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1361891,948890), p2=(1361955,948954)
+LINE entity, line 28814
+WARNING (028824): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1364290,951289), p2=(1364562,951562)
+LINE entity, line 28840
+WARNING (028850): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1353763,948890), p2=(1353700,948954)
+LINE entity, line 28866
+WARNING (028876): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1351364,951289), p2=(1351092,951562)
+LINE entity, line 28892
+LINE: layer="Visible (ANSI)", p1=(1353763,940762), p2=(1351364,938364)
+LINE entity, line 28916
+LINE: layer="Visible (ANSI)", p1=(1361891,940762), p2=(1364290,938364)
+LINE entity, line 28940
+LINE: layer="Visible (ANSI)", p1=(1361955,948954), p2=(1364290,951289)
+LINE entity, line 28964
+LINE: layer="Visible (ANSI)", p1=(1353700,948954), p2=(1351364,951289)
+LINE entity, line 28988
+WARNING (028998): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1386021,948890), p2=(1386021,940762)
+LINE entity, line 29014
+WARNING (029024): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1394149,940762), p2=(1394149,948890)
+LINE entity, line 29040
+WARNING (029050): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1394149,948890), p2=(1386021,948890)
+SPLINE entity, line 29066
+WARNING (029076): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 29220
+WARNING (029230): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 29374
+WARNING (029384): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 29528
+WARNING (029538): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+LINE entity, line 29682
+WARNING (029692): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1383622,938364), p2=(1383350,938091)
+LINE entity, line 29708
+WARNING (029718): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1396548,938364), p2=(1396820,938091)
+LINE entity, line 29734
+WARNING (029744): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1394149,948890), p2=(1394213,948954)
+LINE entity, line 29760
+WARNING (029770): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1396548,951289), p2=(1396820,951562)
+LINE entity, line 29786
+WARNING (029796): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1386021,948890), p2=(1385958,948954)
+LINE entity, line 29812
+WARNING (029822): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1383622,951289), p2=(1383350,951562)
+LINE entity, line 29838
+LINE: layer="Visible (ANSI)", p1=(1386021,940762), p2=(1383622,938364)
+LINE entity, line 29862
+LINE: layer="Visible (ANSI)", p1=(1394149,940762), p2=(1396548,938364)
+LINE entity, line 29886
+LINE: layer="Visible (ANSI)", p1=(1394213,948954), p2=(1396548,951289)
+LINE entity, line 29910
+LINE: layer="Visible (ANSI)", p1=(1385958,948954), p2=(1383622,951289)
+LINE entity, line 29934
+WARNING (029944): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1418279,948890), p2=(1418279,940762)
+LINE entity, line 29960
+WARNING (029970): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1426407,940762), p2=(1426407,948890)
+LINE entity, line 29986
+WARNING (029996): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1426407,948890), p2=(1418279,948890)
+SPLINE entity, line 30012
+WARNING (030022): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 30166
+WARNING (030176): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 30320
+WARNING (030330): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+SPLINE entity, line 30474
+WARNING (030484): SPLINE entity group 48 unknown/not supported - ignored.
+SPLINE: layer="Hidden (ANSI)", flags=0x08, degree=3, num knots=18
+LINE entity, line 30628
+WARNING (030638): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1415880,938364), p2=(1415608,938091)
+LINE entity, line 30654
+WARNING (030664): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1428806,938364), p2=(1429078,938091)
+LINE entity, line 30680
+WARNING (030690): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1426407,948890), p2=(1426471,948954)
+LINE entity, line 30706
+WARNING (030716): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1428806,951289), p2=(1429078,951562)
+LINE entity, line 30732
+WARNING (030742): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1418279,948890), p2=(1418216,948954)
+LINE entity, line 30758
+WARNING (030768): LINE/3DLINE entity group 48 unknown/not supported - ignored.
+LINE: layer="Hidden (ANSI)", p1=(1415880,951289), p2=(1415608,951562)
+LINE entity, line 30784
+LINE: layer="Visible (ANSI)", p1=(1418279,940762), p2=(1415880,938364)
+LINE entity, line 30808
+LINE: layer="Visible (ANSI)", p1=(1426407,940762), p2=(1428806,938364)
+LINE entity, line 30832
+LINE: layer="Visible (ANSI)", p1=(1426471,948954), p2=(1428806,951289)
+LINE entity, line 30856
+LINE: layer="Visible (ANSI)", p1=(1418216,948954), p2=(1415880,951289)
